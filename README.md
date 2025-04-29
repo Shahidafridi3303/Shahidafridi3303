@@ -1,15 +1,78 @@
-## Hi there 👋
+![Banner](https://raw.githubusercontent.com/ShahidAfridi3303/ShahidAfridi3303/main/banner.jpg)
 
-• Self-motivated Game programmer with a strong initiative to push limits and a passion for developing high-quality, fun and engaging gaming experiences.
+# 👋 Hi, I'm Shahid Afridi
 
-• Strong understanding of C++ and object-oriented programming with the ability to write highly maintainable, scalable and well-documented code for gameplay elements, including camera views / UIs, character interactions, behaviour trees, puzzles, scoring, leveling systems and player progression.
+🎮 **Unreal Engine & C++ Game Programmer**  
+📍 Toronto, ON | 💼 [Portfolio Games]([https://Shahid-Afridi.com](https://shahidafridi-games.carrd.co/))  
+📧 shahidafridi.dev@gmail.com | 📞 416-854-0245 
+🔗 [LinkedIn]((https://www.linkedin.com/in/shahid-afridi-857235252/)) | [GitHub](https://github.com/ShahidAfridi3303)
 
-• Passionate about developing open-world, FPS/TPS, multiplayer, and PvP live games, with a focus on designing complex AI behavior while ensuring optimal performance on consoles.
+---
 
-• Strong knowledge of design principles, data structures, and patterns, with the ability to effectively apply them to solve problems.
+## 🔧 Skills
 
-• Skilled in analysing unfamiliar code of reasonable complexity to understand and extend functionality.
+**Languages:** C, C++, C#  
+**Engines/Tools:** Unreal Engine (C++ & Blueprint), Unity, Perforce, Git, GitLab, Anchorpoint  
+**UI & Multimedia:** UMG, Slate UI, Adobe Photoshop, Adobe Premiere Pro, Figma  
+**Collaboration:** Jira, Trello, Miro
 
-• Excellent communication and interpersonal skills with a strong work ethic, capable of working independently in an iterative environment to quickly prototype gameplay features in collaboration with game designers.
+---
 
-• Creative and innovative thinker with a growth mindset, eager to explore new ideas and technologies.
+## 🚀 About Me
+
+🎯 Self-motivated Game Programmer with experience building scalable gameplay systems, advanced UI frameworks, and multiplayer features in Unreal Engine.  
+⚙️ Strong background in gameplay optimization, AI behaviors, and modular architecture using advanced design patterns in C++.  
+🏆 Passionate about pushing technical boundaries with systems like procedural generation, machine learning-enhanced AI, and Chaos destruction.
+
+---
+
+## 💼 Experience
+
+### 🔹 Unreal Game Programmer (Contract) — *Given Labs, Toronto (Oct 2024 – Present)*
+- Developed performant UI systems using UMG & Slate
+- Optimized asset streaming (Nanite, async loading)
+- Refactored Blueprints into efficient C++ systems
+- Enhanced AI behavior and animation montages
+
+### 🔹 Unreal Game Programmer (Intern) — *Insanity Crew Games (Aug 2024 – Nov 2024)*
+- Built multiplayer systems with GAS & Replication Graph
+- Designed animation systems with Root Motion & IK
+- Implemented procedural content via Houdini Engine
+- Created EUW tools for AI debugging and gameplay tracking
+
+---
+
+## 🎮 Projects
+
+### **🔸 Slash – Open World Action RPG**  
+*C++, UE5, Chaos, Niagara, Motion Warping*
+- Advanced melee combat using Motion Warping
+- Destructible environments using Chaos Destruction
+- Scalable AI behaviors with Blueprint Templates
+
+### **🔸 Shooter – Unreal FPS Game**  
+*C++, Blueprints, AI Behavior, Niagara VFX*
+- Inventory, crosshair & recoil systems
+- Dynamic VFX for impact and shooting feedback
+- Enemy AI with patrol & attack behaviors
+
+### **🔸 Life and Death – Strategy Co-op Game**  
+*UI Dev, Multiplayer, Trello, Photoshop*
+- 2-player asymmetric co-op strategy
+- Adaptive difficulty via IS spawner
+- Energy pool system for co-op coordination
+
+---
+
+## 🎓 Education
+
+**Advanced Diploma in Game Programming** — *George Brown College, Toronto*  
+*(Sept 2022 – May 2025)*
+
+---
+
+### ⚡ Let's Connect
+If you're looking for a dedicated and technically skilled Unreal C++ Game Programmer passionate about gameplay and UI systems — feel free to reach out!
+
+![GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
