@@ -3,7 +3,7 @@
 # 👋 Hey there, I'm Shahid Afridi
 
 🎮 **Unreal Engine C++ Gameplay & UI Programmer**  
-📍 Toronto, ON | 🌐 [Portfolio](https://shahidafridi-games.carrd.co/)  
+[Portfolio](https://shahidafridi-games.carrd.co/)  
 📫 shahidafridi.dev@gmail.com | 📞 416-854-0245  
 🔗 [LinkedIn](https://www.linkedin.com/in/shahid-afridi-857235252/) | [GitHub](https://github.com/ShahidAfridi3303)
 
